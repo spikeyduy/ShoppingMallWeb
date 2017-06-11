@@ -1,0 +1,75 @@
+@charset "UTF-8";
+.title {
+    position:relative;
+    top: 25px;
+    left: 0;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black, " sans-serif", serif;
+    color: #FFFFFF;
+}
+.bar {
+    position: relative;
+    left:19%;
+    width: 60%;
+    height:25px;
+    bottom:58px;
+}
+.barsearch {
+    position: relative;
+    left:19%;
+    bottom:58px;
+}
+input[type=radio] {
+    margin:5px;
+}
+nav {
+    position: fixed;
+    top:40%;
+    border: solid;
+}
+.common {
+    font-size:20px;
+    position: absolute;
+    border-style:solid;
+    /*text-align: center;*/
+    width:280px;
+	height: 180px;
+}
+.Glock17, .M16, .Spas-12 {
+    left:15%;
+}
+.XDS, .AK-47, .Benelli {
+    left:43%;
+}
+.MPShield, .M4, .Beretta-391 {
+    left:71%;
+}
+.Handguns {
+    top: 100px;
+}
+.AssaultRifles{
+    bottom:90px;
+}
+.Shotguns{
+    top:600px;
+}
+img {
+    width:150px;
+    height:150px;
+}
+.amount{
+	position: relative;
+	bottom: 130px;
+	left: 160px;
+	width: 100px;
+}
+.buttonGo{
+	position: relative;
+	bottom: 100px;
+	left: 160px;
+}
+.searchres {
+    position: absolute;
+    top:120px;
+    font-size:22px;
+}

@@ -1,0 +1,7 @@
+HAND GUNS
+Automatic Rifle
+Sniper Rifle
+Semi-automatic Rifle
+Bolt-action Rifle
+Bow
+Knife

@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+input[name=search] {
+	position: relative;
+	padding: 5px;
+	width: 65%;
+	border-color: silver;
+		/*This makes the search bar spread out*/
+/*	-webkit-transition: width 0.4 ease-in-out;*/
+/*	transition: width 0.4 ease-in-out;*/
+}
+.title {
+	position: relative;
+    top: 45px;
+	transform: translateY(55%);
+	font-size: 60px;
+    font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black, " sans-serif", serif;
+	color: #FFFFFF;
+	text-align: center;
+}

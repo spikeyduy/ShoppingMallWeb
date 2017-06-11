@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+input[type=text], input[type=password], input[type=submit], input[type=reset] {
+	padding: 10px;
+	width: 25%;
+	border-color: silver;
+}
+input[name=signin] {
+/*	visibility: hidden;*/
+	opacity: 0;
+}
+input[type=submit] {
+	padding: 5px;
+	width: 70px;
+	border-color: silver;
+}
+#signin {
+	position: relative;
+	transform: translateY(25%);
+	font-size: 30px;
+	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
+	color: #FFFFFF;
+	text-align: center;
+}
